@@ -1,4 +1,5 @@
 #小学校５年　図形の等積変形
+
 小学校５年生の算数　図形の単元で、等積変形をブラウザ上で実現する.
  * 最初はjavaベースのProcessing言語で開発していたが、Processingの文法をある程度はそのまま
  * 流用できるので、javascript言語ベースのp5js言語で開発. <br/>
@@ -16,3 +17,6 @@
  * @link https://imagingsolution.net/math/calc_n_point_area/
  * @link https://oguemon.com/study/linear-algebra/inner-cross-element/
  */
+
+#デモ
+https://linuxerjpn.github.io/Math5_eq_area_deformation/
